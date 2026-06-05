@@ -4,8 +4,8 @@ The Technology used:
 -css
 -js
 
-ss of the website :
-<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/6842c68c-97e1-4dee-ba5c-2d5b38173c93" />
+ss of the website:<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/0e857501-80c0-4c08-8992-c27d57e3a343" />
+
 
 demo:https://siddhant08-lol.github.io/university-website/
 
